@@ -30,7 +30,8 @@
   "scripts": {
     "debug": "node debug app.js",
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "postinstall": "cd submodules/athenapdf/cli && npm i"
   },
   "main": "app.js",
   "repository": {

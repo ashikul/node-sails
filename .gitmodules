@@ -1,0 +1,3 @@
+[submodule "submodules/athenapdf"]
+	path = submodules/athenapdf
+	url = https://github.com/arachnys/athenapdf.git
