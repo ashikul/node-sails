@@ -1,1 +1,4 @@
 -can athenapdf be easily updated?
+-lot of hardcoded urls
+-i spawn a cmd arg process for a pdf process
+-current time is 0.5ms+
